@@ -22,13 +22,13 @@ I am an aspiring Software Engineering who is interested in Machine Learning, Sof
 
 I am currently a member of Computation and Psycholinguistics Laboratory (CAP Labs) as a lab programmer under Professor Blair Armstrong. In this lab, I am working on a machine learning library PyLens, which is a Python version of the old machine learning library CLens, and my responsibilities include setting up CI/CD environment, creating unit test files, maintaining documentation, and backend code such as Simple Recurrent Networks, Back Propagation through time networks, and activation functions.
 
-Additionally, I worked as a PHP Backend Developer for eMe Multimedia Company in Taiwan. I assisted on many local bookstore clients with their Point of Sale (POS) System and I have added many additional features to facilitate their businesses. I have also created survey pages with phone verification system for the company's upcoming bike share application.
+Additionally, I worked as a PHP Backend Developer for eMe Multimedia Company in Taiwan. I assisted on many local bookstore clients with their Point of Sale (POS) System and I have added many additional features such as mass import systems and quick edit in inventory to facilitate their businesses. I have also created survey pages with phone verification system for the company's upcoming bike share application.
 
 I also have experience working on React and Node.js on a budgeting web application for Gigflow Labs Inc. and Flutter, a software development kit created by Google, during the 2021 UofT Hackathon.
 
 I currently live in Toronto but I am from Taiwan and I have also lived in Burnaby when I was little. I love to travel, and some of my favorite places are Vietnam, South Korea, New York, and, of course, Toronto and Taiwan!
 
-My hobbies are photography, cooking, snowboarding, and going on road trips while swimming and running are my favorite sports. My go to drinks are coffee and tea and my favorite dishes are Braised Rice with Pork and Soy Sauce and Stinky Tofu!
+My hobbies are photography, cooking, snowboarding, and going on road trips while swimming and running are my favorite sports. My go to drinks are coffee and tea and my favorite dishes are Braised Rice with Pork and Soy Sauce and Stinky Tofu.
 
 I am always welcoming new project ideas, research opportunities, and work opportunities. Please feel free to contact me through email if you are interested!
 
