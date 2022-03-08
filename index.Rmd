@@ -1,0 +1,33 @@
+---
+title: "Ray Wen"
+image: "ray_profile.jpg"
+color: "#5A59A3"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::trestles
+---
+
+Hey everyone!
+
+My name is Ray Wen and I am currently a third year student at the University of Toronto studying Computer Science and Statistics.
+I am interested in Machine Learning, Software Engineering, and Data Analysis, but I am also actively trying out different areas to broaden my view.
+
+I am currently a member of Computation and Psycholinguistics Laboratory (CAP Labs) as a lab programmer under Professor Blair Armstrong. In this lab, I am working on a machine learning library PyLens, which is a Python version of the old machine learning library CLens. 
+
+I currently live in Toronto but I am from Taiwan. I have also lived in Burnaby when I was little. 
+
+My hobbies are cooking, making hand drip coffee Swimming and running are my go to sports.
+
+
+
+
+
+
