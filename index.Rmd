@@ -4,13 +4,13 @@ image: "ray_profile.jpg"
 color: "#5A59A3"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/raywen0130/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/ray0130"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:ray.wen@mail.utoronto.ca"
+  - label: VSCO
+    url: "https://vsco.co/rayraywen/gallery"
 output:
   postcards::trestles
 ---
@@ -18,13 +18,15 @@ output:
 Hey everyone!
 
 My name is Ray Wen and I am currently a third year student at the University of Toronto studying Computer Science and Statistics.
-I am interested in Machine Learning, Software Engineering, and Data Analysis, but I am also actively trying out different areas to broaden my view.
+I am an aspiring Software Engineering who is interested in Machine Learning, Software Engineering, and Data Analysis, but I am also actively trying out different areas to broaden my view.
 
-I am currently a member of Computation and Psycholinguistics Laboratory (CAP Labs) as a lab programmer under Professor Blair Armstrong. In this lab, I am working on a machine learning library PyLens, which is a Python version of the old machine learning library CLens. 
+I am currently a member of Computation and Psycholinguistics Laboratory (CAP Labs) as a lab programmer under Professor Blair Armstrong. In this lab, I am working on a machine learning library PyLens, which is a Python version of the old machine learning library CLens, and my responsibilities include setting up CI/CD environment, creating unit test files, maintaining documentation, and backend code such as Simple Recurrent Networks, Back Propagation through time networks, and activation functions.
+
+I also have experience working on React and Node.js on a budgeting web application for Gigflow Labs Inc. and Flutter, a software development kit created by Google, during the 2021 UofT Hackathon.
 
 I currently live in Toronto but I am from Taiwan. I have also lived in Burnaby when I was little. 
 
-My hobbies are cooking, making hand drip coffee Swimming and running are my go to sports.
+My hobbies are cooking, snowboarding, and going on road trips while swimming and running are my favorite sports. My go to drinks are coffee and tea and my favorite dishes are Braised Rice with Pork and Soy Sauce and Stinky Tofu!
 
 
 
